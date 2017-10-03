@@ -1,0 +1,11 @@
+h1 {
+			background-color: yellow;
+			border-bottom: 1px red solid;
+			background: url(http://htmlbook.ru/themes/hb/img/browser_ie.png) left center no-repeat yellow;
+			padding-left: 20px;
+			background-size: 2%;
+		}h2 {
+			background-color: green;
+		}
+		#login {padding:15px;
+			color:blue;}
